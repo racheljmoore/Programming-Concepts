@@ -10,5 +10,5 @@
  * Guidance on Variables: https://en.wikibooks.org/wiki/C_Sharp_Programming/Variables
  */
 // See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+
 
