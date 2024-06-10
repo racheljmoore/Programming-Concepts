@@ -34,11 +34,11 @@ namespace Lab2
                 MessageBox.Show("NOT a valid integer");
 
             }
-                
+            try
+            {
+                result = int.Parse(str);
 
-
-
-        }
-    }
-}
-    }
+            }
+            catch
+            { MessageBox.Show("catch - not a valid int");
+            }
