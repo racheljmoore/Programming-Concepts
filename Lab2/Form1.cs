@@ -41,4 +41,7 @@ namespace Lab2
             }
             catch
             { MessageBox.Show("catch - not a valid int");
-            }
+                MessageBox.Show("please try again");
+
+
+
